@@ -1,0 +1,4 @@
+name: milberg-omeka
+recipe: lamp
+config:
+  webroot: .
